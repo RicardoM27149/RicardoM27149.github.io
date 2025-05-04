@@ -22,16 +22,17 @@
     background: transparent !important;
   }
 
-.page{
-  /* background-image: url(https://pic.wunian.dpdns.org/picture/20250424200255048.jpg);
-  background-repeat: no-repeat;
-  background-attachment: fixed; */
-  background: #a4d9ff;
-}
 
-.post{
+/* .page{
+  background-image: url(https://pic.wunian.dpdns.org/picture/20250424200255048.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
   background: #a4d9ff;
-}
+} */
+
+/* .post .page{
+  background: #a4d9ff;
+} */
 
 /* #flip-wrapper {
   width: 285px;
