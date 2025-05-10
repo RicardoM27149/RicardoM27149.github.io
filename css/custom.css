@@ -23,16 +23,21 @@
   }
 
 
-/* .page{
+  
+
+
+
+
+body{
   background-image: url(https://pic.wunian.dpdns.org/picture/20250424200255048.jpg);
   background-repeat: no-repeat;
+  background-size:cover;
   background-attachment: fixed;
-  background: #a4d9ff;
-} */
+}
 
-/* .post .page{
-  background: #a4d9ff;
-} */
+[data-theme="dark"]  {
+  background-image: url(https://pic.wunian.dpdns.org/picture/20250502101622551.jpg);
+}
 
 /* #flip-wrapper {
   width: 285px;

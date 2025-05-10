@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>Vue开发前置准备</title>
+      <link href="/2025/05/08/Vue%E5%BC%80%E5%8F%91%E5%89%8D%E7%BD%AE%E5%87%86%E5%A4%87/"/>
+      <url>/2025/05/08/Vue%E5%BC%80%E5%8F%91%E5%89%8D%E7%BD%AE%E5%87%86%E5%A4%87/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Vue开发前置准备"><a href="#Vue开发前置准备" class="headerlink" title="Vue开发前置准备"></a>Vue开发前置准备</h1><h2 id="环境准备"><a href="#环境准备" class="headerlink" title="环境准备"></a>环境准备</h2><p>1.安装***<a href="https://nodejs.org/">Node</a>***（版本要求大于等于15.0）<br>可以在控制台输入以下代码查看自己的node版本</p><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">node -v</span><br></pre></td></tr></table></figure><p><img src="https://pic.wunian.dpdns.org/picture/20250508115053547.png"><br>2.创建项目</p><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">npm init vue@latest</span><br></pre></td></tr></table></figure><p><img src="https://pic.wunian.dpdns.org/picture/20250508123654069.png"><br>输入项目名（不能有大写字母）<br><img src="https://pic.wunian.dpdns.org/picture/20250508123445124.png"><br>后面的选项我们直接回车跳过就好了<br><img src="https://pic.wunian.dpdns.org/picture/20250508124026890.png"><br>这样我们的第一个项目就创建好啦<br><img src="https://pic.wunian.dpdns.org/picture/20250508124159807.png"><br>我们输入以下代码运行项目</p><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line"><span class="built_in">cd</span> <span class="built_in">test</span>      <span class="comment">#进入项目地址</span></span><br><span class="line">npm install  <span class="comment">#安装项目依赖</span></span><br><span class="line">npm run dev  <span class="comment">#运行项目</span></span><br></pre></td></tr></table></figure><p>其中的<code>npm install</code>我们可以替换为<code>cnpm install</code>，<code>cnpm</code>是淘宝镜像的npm，安装速度更快<br>我们到浏览器输入这个访问地址就可以看到我们的第一个项目了<br><img src="https://pic.wunian.dpdns.org/picture/20250509092337171.png"><br><img src="https://pic.wunian.dpdns.org/picture/20250509092250145.png"></p><h2 id="扩展安装"><a href="#扩展安装" class="headerlink" title="扩展安装"></a>扩展安装</h2><p>打开你的src路径你会发现你的源码并不是像我图片上的那样高亮显示，而是全白色的文本，这是因为我们没有安装扩展<br><img src="https://pic.wunian.dpdns.org/picture/20250509095351706.png"><br>到扩展商店安装这个扩展不需要重启项目就可以看到代码高亮显示了<br><img src="https://pic.wunian.dpdns.org/picture/20250509095250179.png"></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>t1</title>
       <link href="/2025/04/29/t1/"/>
       <url>/2025/04/29/t1/</url>
